@@ -1,0 +1,30 @@
+var json_Vulnerable_Villages_4 = {
+"type": "FeatureCollection",
+"name": "Vulnerable_Villages_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Location": "PUDUPPATTINAM", "Taluk": "Sirkazhi", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.8081691011148, 11.33444921776381 ] } },
+{ "type": "Feature", "properties": { "Location": "PULIYANDURAI", "Taluk": "Sirkazhi", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.804228574711956, 11.341131663693329 ] } },
+{ "type": "Feature", "properties": { "Location": "PUDUPPATTINAM", "Taluk": "Sirkazhi", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.79539562798189, 11.30299880416562 ] } },
+{ "type": "Feature", "properties": { "Location": "PALAIYAPALAIYAM", "Taluk": "Sirkazhi", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.826235518089092, 11.306134093731202 ] } },
+{ "type": "Feature", "properties": { "Location": "TANDAVANGULAM", "Taluk": "Sirkazhi", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.814171031473975, 11.352877881355143 ] } },
+{ "type": "Feature", "properties": { "Location": "TIRUMULLAIVASAL", "Taluk": "Sirkazhi", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.835980306825348, 11.272009715709354 ] } },
+{ "type": "Feature", "properties": { "Location": "TIRUMULLAIVASAL", "Taluk": "Sirkazhi", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.838615504563151, 11.240647953493568 ] } },
+{ "type": "Feature", "properties": { "Location": "PERUNTOTTAM PART-II", "Taluk": "Sirkazhi", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.848097012093277, 11.190443837477849 ] } },
+{ "type": "Feature", "properties": { "Location": "KALAMANALLUR", "Taluk": "Tarangambadi", "Type": "Moderate" }, "geometry": { "type": "Point", "coordinates": [ 79.846190504378413, 11.094813294235285 ] } },
+{ "type": "Feature", "properties": { "Location": "TILLAIYADI", "Taluk": "Tarangambadi", "Type": "Moderate" }, "geometry": { "type": "Point", "coordinates": [ 79.834665989993979, 11.024199455494781 ] } },
+{ "type": "Feature", "properties": { "Location": "ERUKKATTANCHERI(TP)", "Taluk": "Tarangambadi", "Type": "Moderate" }, "geometry": { "type": "Point", "coordinates": [ 79.811201056337183, 11.041472697732532 ] } },
+{ "type": "Feature", "properties": { "Location": "PANANGUDI", "Taluk": "Karaikal", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.815455505276574, 10.845276313332539 ] } },
+{ "type": "Feature", "properties": { "Location": "PANANGUDI", "Taluk": "Karaikal", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.840134508098302, 10.816793623547126 ] } },
+{ "type": "Feature", "properties": { "Location": "NAGAPATTINAM", "Taluk": "Karaikal", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.833109070194894, 10.827741086087981 ] } },
+{ "type": "Feature", "properties": { "Location": "NAGAPATTINAM", "Taluk": "Nagappattinam", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.840178614203396, 10.76317425692111 ] } },
+{ "type": "Feature", "properties": { "Location": "PAPPAKOVIL", "Taluk": "Nagappattinam", "Type": "High" }, "geometry": { "type": "Point", "coordinates": [ 79.822760607986609, 10.74853880623016 ] } },
+{ "type": "Feature", "properties": { "Location": "VELANGANNI(TP)", "Taluk": "Nagappattinam", "Type": "Moderate" }, "geometry": { "type": "Point", "coordinates": [ 79.839076980461556, 10.682822563392937 ] } },
+{ "type": "Feature", "properties": { "Location": "VELLAPPALLAM", "Taluk": "Tirutturaippundi", "Type": "Moderate" }, "geometry": { "type": "Point", "coordinates": [ 79.857125886326017, 10.531034572033619 ] } },
+{ "type": "Feature", "properties": { "Location": "VELLAPPALLAM", "Taluk": "Tirutturaippundi", "Type": "Moderate" }, "geometry": { "type": "Point", "coordinates": [ 79.857488769852196, 10.520069235830539 ] } },
+{ "type": "Feature", "properties": { "Location": "KALLIMODU", "Taluk": "Tirutturaippundi", "Type": "Moderate" }, "geometry": { "type": "Point", "coordinates": [ 79.82692739998096, 10.49963519621306 ] } },
+{ "type": "Feature", "properties": { "Location": "MAHARAJAPURAM KILPADI", "Taluk": "Tirutturaippundi", "Type": "Moderate" }, "geometry": { "type": "Point", "coordinates": [ 79.859389611574514, 10.391611313773131 ] } },
+{ "type": "Feature", "properties": { "Location": "MAHARAJAPURAM KILPADI", "Taluk": "Tirutturaippundi", "Type": "Moderate" }, "geometry": { "type": "Point", "coordinates": [ 79.865359330730072, 10.392586548243624 ] } },
+{ "type": "Feature", "properties": { "Location": "VEDARANYAM PART-1", "Taluk": "Tirutturaippundi", "Type": "Moderate" }, "geometry": { "type": "Point", "coordinates": [ 79.850480392170368, 10.375814413144361 ] } }
+]
+}
